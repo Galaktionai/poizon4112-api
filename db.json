@@ -3,7 +3,7 @@
     {
         "id": 1,
         "img": "acg-orange-jacket.jpg",
-        "price": "26 642",
+        "price": 26642,
         "type": "stock",
         "name": "Пуховик",
         "brand": "ACG",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "img": "nike-green-jacket.jpg",
-      "price": "19 455",
+      "price": 19455,
       "type": "stock",
       "name": "Пуховик",
       "brand": "Nike",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "img": "jordan-black-jacket.jpg",
-      "price": "14 047",
+      "price": 14047,
       "type": "stock",
       "name": "Пуховик",
       "brand": "Nike",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "img": "nike-jacket-gray.jpg",
-      "price": "7 788",
+      "price": 7788,
       "type": "stock",
       "name": "Пуховик",
       "brand": "Nike",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "img": "tnf-vest-black.jpg",
-      "price": "7 788",
+      "price": 7788,
       "type": "stock",
       "name": "Жилетка",
       "brand": "The North Face",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "img": "tnf-jacket-black.jpg",
-      "price": "11 693",
+      "price": 11693,
       "type": "stock",
       "name": "Ветровка",
       "brand": "The North Face",
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "img": "kreate-jacket-black.jpg",
-      "price": "5 020",
+      "price": 5020,
       "type": "stock",
       "name": "Ветровка",
       "brand": "Kreate",
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "img": "nalichii.jpg",
-      "price": "5 621",
+      "price": 5621,
       "type": "stock",
       "name": "Мастерка",
       "brand": "Nike",
@@ -75,7 +75,7 @@
     {
       "id": 9,
       "img": "nike-sweater-mocha.jpg",
-      "price": "10 649",
+      "price": 10649,
       "type": "stock",
       "name": "Свитер",
       "brand": "Nike",
@@ -84,7 +84,7 @@
     {
       "id": 10,
       "img": "zebra-sweater.jpg",
-      "price": "4 119",
+      "price": 4119,
       "type": "stock",
       "name": "Свитер",
       "brand": "Зебра",
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "img": "babugge-sweater-mocha.jpg",
-      "price": "4 823",
+      "price": 4823,
       "type": "stock",
       "name": "Свитер",
       "brand": "babugge",
@@ -102,7 +102,7 @@
     {
       "id": 12,
       "img": "zebra-sweater.jpg",
-      "price": "4 119",
+      "price": 4119,
       "type": "stock",
       "name": "Свитер",
       "brand": "Зебра",
@@ -111,7 +111,7 @@
     {
       "id": 13,
       "img": "japan-sweater-blue.jpg",
-      "price": "3 878",
+      "price": 3878,
       "type": "stock",
       "name": "Свитер",
       "brand": "Зебра",
@@ -120,7 +120,7 @@
     {
       "id": 14,
       "img": "jordan-pants-black.jpg",
-      "price": "9 227",
+      "price": 9227,
       "type": "stock",
       "name": "Штаны спортивные",
       "brand": "Jordan",
@@ -129,7 +129,7 @@
     {
       "id": 15,
       "img": "umbra-pants-black.jpg",
-      "price": "6 953",
+      "price": 6953,
       "type": "stock",
       "name": "Брюки",
       "brand": "Umbra",
@@ -138,7 +138,7 @@
     {
       "id": 16,
       "img": "nike-pants-black.jpg",
-      "price": "11 363",
+      "price": 11363,
       "type": "stock",
       "name": "Штаны спортивные",
       "brand": "Nike",
@@ -147,7 +147,7 @@
     {
       "id": 17,
       "img": "nike-pants-blue.jpg",
-      "price": "6 953",
+      "price": 6953,
       "type": "stock",
       "name": "Брюки",
       "brand": "Nike",
@@ -156,7 +156,7 @@
     {
       "id": 18,
       "img": "nike-pants-green.jpg",
-      "price": "4 990",
+      "price": 4990,
       "type": "stock",
       "name": "Брюки",
       "brand": "Nike",
@@ -165,7 +165,7 @@
     {
       "id": 19,
       "img": "adidas-shorts-black.jpg",
-      "price": "2 640",
+      "price": 2640,
       "type": "stock",
       "name": "Шорты",
       "brand": "Adidas",
@@ -174,7 +174,7 @@
     {
       "id": 20,
       "img": "nike-shorts-gray.jpg",
-      "price": "от 3 465",
+      "price": 3465,
       "type": "stock",
       "name": "Шорты",
       "brand": "Nike",
@@ -183,7 +183,7 @@
     {
       "id": 21,
       "img": "nike-t-short-pink.jpg",
-      "price": "от 2 933",
+      "price": 2933,
       "type": "stock",
       "name": "Футболка",
       "brand": "Nike",
@@ -192,7 +192,7 @@
     {
       "id": 22,
       "img": "nike-t-short-black.jpg",
-      "price": "от 2 978",
+      "price": 2978,
       "type": "stock",
       "name": "Футболка",
       "brand": "Nike",
@@ -201,7 +201,7 @@
     {
       "id": 23,
       "img": "nike-t-short-white.jpg",
-      "price": "от 3 271",
+      "price": 3271,
       "type": "stock",
       "name": "Футболка",
       "brand": "Nike",
@@ -210,7 +210,7 @@
     {
       "id": 24,
       "img": "noname-hat-black.jpg",
-      "price": "2129",
+      "price": 2129,
       "type": "stock",
       "name": "Шапка",
       "brand": "babugge",
@@ -219,7 +219,7 @@
     {
       "id": 25,
       "img": "cold-ink-balaclava.jpg",
-      "price": "3 500",
+      "price": 3500,
       "type": "stock",
       "name": "Утепленная балаклава",
       "brand": "Cold Ink ",
@@ -228,7 +228,7 @@
     {
       "id": 26,
       "img": "cold-ink-bandana.jpg",
-      "price": "1 200",
+      "price": 1200,
       "type": "stock",
       "name": "Банданы",
       "brand": "Cold Ink",
@@ -237,7 +237,7 @@
     {
       "id": 27,
       "img": "nike-backpack-black.jpg",
-      "price": "5920",
+      "price": 5920,
       "type": "stock",
       "name": "Рюкзак",
       "brand": "Nike",
@@ -246,7 +246,7 @@
     {
       "id": 28,
       "img": "nike-backpack-black-2.jpg",
-      "price": "6 428",
+      "price": 6428,
       "type": "stock",
       "name": "Рюкзак",
       "brand": "Nike",
@@ -255,7 +255,7 @@
     {
       "id": 29,
       "img": "puma-backpack-black.jpg",
-      "price": "3 772",
+      "price": 3772,
       "type": "stock",
       "name": "Рюкзак",
       "brand": "Puma",
@@ -264,7 +264,7 @@
     {
       "id": 30,
       "img": "new-balance-sneakers-white.jpg",
-      "price": "11 161",
+      "price": 11161,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
@@ -273,7 +273,7 @@
     {
       "id": 31,
       "img": "nike-sneakers-gray.jpg",
-      "price": "9 593",
+      "price": 9593,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -282,7 +282,7 @@
     {
       "id": 32,
       "img": "asics-sneackers-gray.jpg",
-      "price": "10 058",
+      "price": 10058,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Asics",
@@ -291,7 +291,7 @@
     {
       "id": 33,
       "img": "nike-sneakers-black.jpg",
-      "price": "13 059",
+      "price": 13059,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -300,7 +300,7 @@
     {
       "id": 34,
       "img": "nike-sneakers-white.jpg",
-      "price": "13 988",
+      "price": 13988,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -309,7 +309,7 @@
     {
       "id": 35,
       "img": "new-balance-sneakers-green.jpg",
-      "price": "14 108",
+      "price": 14108,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
@@ -318,7 +318,7 @@
     {
       "id": 36,
       "img": "nike-sneakers-pink.jpg",
-      "price": "13853",
+      "price": 13853,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Lebron",
@@ -327,7 +327,7 @@
     {
       "id": 37,
       "img": "nike-sneakers-blue.jpg",
-      "price": "10 313",
+      "price": 10313,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -336,7 +336,7 @@
     {
       "id": 38,
       "img": "new-balance-sneakers-white-and-blue.jpg",
-      "price": "6 053",
+      "price": 6053,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
@@ -345,7 +345,7 @@
     {
       "id": 39,
       "img": "new-balance-sneakers-orange.jpg",
-      "price": "7 643",
+      "price": 7643,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Asics",
@@ -354,7 +354,7 @@
     {
       "id": 40,
       "img": "nike-sneakers-gray-2.jpg",
-      "price": "13 283",
+      "price": 13283,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -363,7 +363,7 @@
     {
       "id": 41,
       "img": "nike-blazer-sneakers-white.jpg",
-      "price": "6326",
+      "price": 6326,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Blazer Mid",
@@ -372,7 +372,7 @@
     {
       "id": 42,
       "img": "nike-dunk-sneakers-mocha.jpg",
-      "price": "11 063",
+      "price": 11063,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Dunk",
@@ -381,7 +381,7 @@
     {
       "id": 43,
       "img": "new-balance-sneakers-blue.jpg",
-      "price": "7 042",
+      "price": 7042,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
@@ -390,7 +390,7 @@
     {
       "id": 44,
       "img": "nike-sneakers-blue-2.jpg",
-      "price": "6 653",
+      "price": 6653,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -399,7 +399,7 @@
     {
       "id": 45,
       "img": "nike-sneakers-black-2.jpg",
-      "price": "8 183",
+      "price": 8183,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -408,7 +408,7 @@
     {
       "id": 46,
       "img": "nike-sneakers-zebra.jpg",
-      "price": "10 501",
+      "price": 10501,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Jordan 11",
@@ -417,7 +417,7 @@
     {
       "id": 47,
       "img": "asics-sneakers-blue.jpg",
-      "price": "13 478",
+      "price": 13478,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Asics",
@@ -426,7 +426,7 @@
     {
       "id": 48,
       "img": "nike-tn-sneakers-orange.jpg",
-      "price": "18 182",
+      "price": 18182,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike TN",
@@ -435,7 +435,7 @@
     {
       "id": 49,
       "img": "nike-95-snearer-black.jpg",
-      "price": "18 623",
+      "price": 18623,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike 95",
@@ -444,7 +444,7 @@
     {
       "id": 50,
       "img": "nike-sneakers-white-2.jpg",
-      "price": "12 113",
+      "price": 12113,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
@@ -453,7 +453,7 @@
     {
       "id": 51,
       "img": "adidas-sneakers-gray.jpg",
-      "price": "10 103",
+      "price": 10103,
       "type": "stock",
       "name": "Кроссовки",
       "brand": "adidas",
@@ -469,7 +469,7 @@
     {
       "id": 52,
       "img": "jordan-jacket-poizon.webp",
-      "price": "от 8 385",
+      "price": 8385,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Jordan",
@@ -484,7 +484,7 @@
     {
       "id": 53,
       "img": "jordan-red-jacket-poizon.jpg",
-      "price": "от 7335",
+      "price": 7335,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Jordan",
@@ -499,7 +499,7 @@
     {
       "id": 54,
       "img": "jordnan-red-jacket-rgrwgw.jpg",
-      "price": "от 5 685",
+      "price": 5685,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Jordan",
@@ -514,7 +514,7 @@
     {
       "id": 55,
       "img": "wegwrgrwhwrfqf.jpg",
-      "price": "от 12 585",
+      "price": 12585,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike",
@@ -529,7 +529,7 @@
     {
       "id": 56,
       "img": "56.jpg",
-      "price": "от 10 935",
+      "price": 10935,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Puma",
@@ -544,7 +544,7 @@
     {
       "id": 57,
       "img": "57.jpg",
-      "price": "от 8 535",
+      "price": 8535,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike",
@@ -559,7 +559,7 @@
     {
       "id": 58,
       "img": "58.jpg",
-      "price": "от 15 285",
+      "price": 15285,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike",
@@ -574,7 +574,7 @@
     {
       "id": 59,
       "img": "59.jpg",
-      "price": "от 15 285",
+      "price": 15285,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike ACG",
@@ -589,7 +589,7 @@
     {
       "id": 60,
       "img": "60.jpg",
-      "price": "от 19 335",
+      "price": 19335,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike ACG",
@@ -604,7 +604,7 @@
     {
       "id": 61,
       "img": "61.jpg",
-      "price": "от 17 235",
+      "price": 17235,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike",
@@ -619,7 +619,7 @@
     {
       "id": 62,
       "img": "62.jpg",
-      "price": "от 10 035",
+      "price": 10035,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Adidas",
@@ -634,7 +634,7 @@
     {
       "id": 63,
       "img": "63.jpg",
-      "price": "от 25 785",
+      "price": 25785,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Jordan",
@@ -649,7 +649,7 @@
     {
       "id": 64,
       "img": "64.jpg",
-      "price": "от 20 535",
+      "price": 20535,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -664,7 +664,7 @@
     {
       "id": 65,
       "img": "65.jpg",
-      "price": "от ",
+      "price": 17985,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "THE NORTH FACE",
@@ -679,7 +679,7 @@
     {
       "id": 66,
       "img": "66.jpg",
-      "price": "от 17 235",
+      "price": 17235,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "THE NORTH FACE",
@@ -694,7 +694,7 @@
     {
       "id": 67,
       "img": "67.jpg",
-      "price": "от 23 235",
+      "price": 23235,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "THE NORTH FACE",
@@ -709,7 +709,7 @@
     {
       "id": 68,
       "img": "68.jpg",
-      "price": "от 18 135",
+      "price": 18135,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "THE NORTH FACE",
@@ -724,7 +724,7 @@
     {
       "id": 70,
       "img": "70.jpg",
-      "price": "от 25 935",
+      "price": 25935,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -739,7 +739,7 @@
     {
       "id": 71,
       "img": "71.jpg",
-      "price": "от 29 285",
+      "price": 29285,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -754,7 +754,7 @@
     {
       "id": 72,
       "img": "72.jpg",
-      "price": "от 28 785",
+      "price": 28785,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -769,7 +769,7 @@
     {
       "id": 74,
       "img": "74.jpg",
-      "price": "от 23 235",
+      "price": 23235,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -784,7 +784,7 @@
     {
       "id": 75,
       "img": "75.jpg",
-      "price": "от 47 985",
+      "price": 47985,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -799,7 +799,7 @@
     {
       "id": 76,
       "img": "76.jpg",
-      "price": "от 25 635",
+      "price": 25635,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -814,7 +814,7 @@
     {
       "id": 77,
       "img": "77.jpg",
-      "price": "от 111 285",
+      "price": 111285,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Canada Goose",
@@ -829,7 +829,7 @@
     {
       "id": 78,
       "img": "78.jpg",
-      "price": "от 106 335",
+      "price": 106335,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Canada Goose",
@@ -844,7 +844,7 @@
     {
       "id": 79,
       "img": "79.jpg",
-      "price": "от 118 635",
+      "price": 118635,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Canada Goose",
@@ -859,7 +859,7 @@
     {
       "id": 80,
       "img": "80.jpg",
-      "price": "от 17 835",
+      "price": 17835,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike",
@@ -874,7 +874,7 @@
     {
       "id": 81,
       "img": "81.jpg",
-      "price": "от 11 385",
+      "price": 11385,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike",
@@ -889,7 +889,7 @@
     {
       "id": 82,
       "img": "82.jpg",
-      "price": "от 25 485",
+      "price": 25485,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -904,7 +904,7 @@
     {
       "id": 83,
       "img": "83.jpg",
-      "price": "от 17 235",
+      "price": 17235,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -919,7 +919,7 @@
     {
       "id": 84,
       "img": "84.jpg",
-      "price": "от 26 235",
+      "price": 26235,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -934,7 +934,7 @@
     {
       "id": 85,
       "img": "85.jpg",
-      "price": "от 28 785",
+      "price": 28785,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -949,7 +949,7 @@
     {
       "id": 86,
       "img": "86.jpg",
-      "price": "от 29 085",
+      "price": 29085,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -964,7 +964,7 @@
     {
       "id": 87,
       "img": "87.jpg",
-      "price": "от 9 585",
+      "price": 9585,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Nike",
@@ -979,7 +979,7 @@
     {
       "id": 88,
       "img": "88.jpg",
-      "price": "от 5 235",
+      "price": 5235,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Converse",
@@ -994,7 +994,7 @@
     {
       "id": 89,
       "img": "89.jpg",
-      "price": "от 76 035",
+      "price": 76035,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Supreme FW22 Week 7 x The North Face",
@@ -1009,7 +1009,7 @@
     {
       "id": 90,
       "img": "90.jpg",
-      "price": "от 8 985",
+      "price": 8985,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "CAMEL",
@@ -1024,7 +1024,7 @@
     {
       "id": 91,
       "img": "91.jpg",
-      "price": "от 59 985",
+      "price": 59985,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "Supreme FW22 Week 13 x THE NORTH FACE",
@@ -1039,7 +1039,7 @@
     {
       "id": 92,
       "img": "92.jpg",
-      "price": "от 7 485",
+      "price": 7485,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "UNIQLO",
@@ -1054,7 +1054,7 @@
     {
       "id": 93,
       "img": "93.jpg",
-      "price": "от 26 385",
+      "price": 26385,
       "type": "order",
       "name": "Куртка пуховик",
       "brand": "The North Face",
@@ -1069,7 +1069,7 @@
     {
       "id": 94,
       "img": "94.jpg",
-      "price": "от 10 040",
+      "price": 10040,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1084,7 +1084,7 @@
     {
       "id": 95,
       "img": "95.jpg",
-      "price": "от 5 985",
+      "price": 5985,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1099,7 +1099,7 @@
     {
       "id": 96,
       "img": "96.jpg",
-      "price": "от 11 085",
+      "price": 11085,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1114,7 +1114,7 @@
     {
       "id": 97,
       "img": "97.jpg",
-      "price": "от 3 870",
+      "price": 3870,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1129,7 +1129,7 @@
     {
       "id": 98,
       "img": "98.jpg",
-      "price": "от 3 735",
+      "price": 3735,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1144,7 +1144,7 @@
     {
       "id": 99,
       "img": "99.jpg",
-      "price": "от 4 185",
+      "price": 4185,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1159,7 +1159,7 @@
     {
       "id": 100,
       "img": "100.jpg",
-      "price": "от 4 335",
+      "price": 4335,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1174,7 +1174,7 @@
     {
       "id": 101,
       "img": "101.jpg",
-      "price": "от 2 835",
+      "price": 2835,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -1189,7 +1189,7 @@
     {
       "id": 102,
       "img": "102.jpg",
-      "price": "от 3 060",
+      "price": 3060,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -1204,7 +1204,7 @@
     {
       "id": 103,
       "img": "103.jpg",
-      "price": "от 5 535",
+      "price": 5535,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1219,7 +1219,7 @@
     {
       "id": 104,
       "img": "104.jpg",
-      "price": "от 4 350",
+      "price": 4350,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -1234,7 +1234,7 @@
     {
       "id": 105,
       "img": "105.jpg",
-      "price": "от 4 170",
+      "price": 4170,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -1249,7 +1249,7 @@
     {
       "id": 106,
       "img": "106.jpg",
-      "price": "от 5 385",
+      "price": 5385,
       "type": "order",
       "name": "Худи",
       "brand": "Nike ACG",
@@ -1264,7 +1264,7 @@
     {
       "id": 107,
       "img": "107.jpg",
-      "price": "от 9435",
+      "price": 9435,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike x Stussy",
@@ -1279,7 +1279,7 @@
     {
       "id": 108,
       "img": "108.jpg",
-      "price": "от 8 835",
+      "price": 8835,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike x Stussy",
@@ -1294,7 +1294,7 @@
     {
       "id": 109,
       "img": "109.jpg",
-      "price": "от 13 035",
+      "price": 13035,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike x Stussy",
@@ -1309,7 +1309,7 @@
     {
       "id": 110,
       "img": "110.jpg",
-      "price": "от 14 985",
+      "price": 14985,
       "type": "order",
       "name": "Худи",
       "brand": "Nike x Stussy",
@@ -1324,7 +1324,7 @@
     {
       "id": 111,
       "img": "111.jpg",
-      "price": "от 11 085",
+      "price": 11085,
       "type": "order",
       "name": "Худи",
       "brand": "Nike x Stussy",
@@ -1339,7 +1339,7 @@
     {
       "id": 112,
       "img": "112.jpg",
-      "price": "от 4 935",
+      "price": 4935,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -1354,7 +1354,7 @@
     {
       "id": 113,
       "img": "113.jpg",
-      "price": "от 8 235",
+      "price": 8235,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -1369,7 +1369,7 @@
     {
       "id": 114,
       "img": "114.jpg",
-      "price": "от 8 985",
+      "price": 8985,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1384,7 +1384,7 @@
     {
       "id": 115,
       "img": "115.jpg",
-      "price": "от 5 235",
+      "price": 5235,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1399,7 +1399,7 @@
     {
       "id": 116 ,
       "img": "116.jpg",
-      "price": "от 6 090",
+      "price": 6090,
       "type": "order",
       "name": "Худи",
       "brand": "Nike",
@@ -1414,7 +1414,7 @@
     {
       "id": 117,
       "img": "117.jpg",
-      "price": "от 14 685",
+      "price": 14685,
       "type": "order",
       "name": "Свитер",
       "brand": "Nike",
@@ -1429,7 +1429,7 @@
     {
       "id": 118,
       "img": "118.jpg",
-      "price": "от ",
+      "price": 15435,
       "type": "order",
       "name": "Худи",
       "brand": "GAP x YEEZY",
@@ -1444,7 +1444,7 @@
     {
       "id": 119,
       "img": "119.jpg",
-      "price": "от 3510",
+      "price": 3510,
       "type": "order",
       "name": "Худи",
       "brand": "Nike ACG",
@@ -1459,7 +1459,7 @@
     {
       "id": 120,
       "img": "120.jpg",
-      "price": "от 19 335",
+      "price": 19335,
       "type": "order",
       "name": "Худи",
       "brand": "GAP x YEEZY",
@@ -1474,7 +1474,7 @@
     {
       "id": 121,
       "img": "121.jpg",
-      "price": "от 10 481",
+      "price": 10481,
       "type": "order",
       "name": "Свитшот",
       "brand": "Adidas",
@@ -1489,7 +1489,7 @@
     {
       "id": 122,
       "img": "122.jpg",
-      "price": "от 65 985",
+      "price": 65985,
       "type": "order",
       "name": "Свитшот",
       "brand": "Adidas",
@@ -1504,7 +1504,7 @@
     {
       "id": 123,
       "img": "123.jpg",
-      "price": "от 3 870",
+      "price": 3870,
       "type": "order",
       "name": "Nike ACG",
       "brand": "",
@@ -1519,7 +1519,7 @@
     {
       "id": 124,
       "img": "124.jpg",
-      "price": "от 4 935",
+      "price": 4935,
       "type": "order",
       "name": "Свитшот",
       "brand": "Adidas",
@@ -1534,7 +1534,7 @@
     {
       "id": 125,
       "img": "125.jpg",
-      "price": "от 5 385",
+      "price": 5385,
       "type": "order",
       "name": "Свитшот",
       "brand": "Adidas",
@@ -1549,7 +1549,7 @@
     {
       "id": 126,
       "img": "126.jpg",
-      "price": "от 3 705",
+      "price": 3705,
       "type": "order",
       "name": "Свитшот",
       "brand": "Adidas",
@@ -1564,7 +1564,7 @@
     {
       "id": 127,
       "img": "127.jpg",
-      "price": "от 5 385",
+      "price": 5385,
       "type": "order",
       "name": "Свитшот",
       "brand": "Adidas",
@@ -1579,7 +1579,7 @@
     {
       "id": 128,
       "img": "128.jpg",
-      "price": "от 3 870",
+      "price": 3870,
       "type": "order",
       "name": "Мастерка",
       "brand": "",
@@ -1594,7 +1594,7 @@
     {
       "id": 129,
       "img": "129.jpg",
-      "price": "от 3 300",
+      "price": 3300,
       "type": "order",
       "name": "Мастерка",
       "brand": "",
@@ -1609,7 +1609,7 @@
     {
       "id": 130,
       "img": "130.jpg",
-      "price": "от 3 420",
+      "price": 3420,
       "type": "order",
       "name": "Олимпийка",
       "brand": "Adidas",
@@ -1624,7 +1624,7 @@
     {
       "id": 131,
       "img": "131.jpg",
-      "price": "от 5 535",
+      "price": 5535,
       "type": "order",
       "name": "Джерси",
       "brand": "Adidas",
@@ -1639,7 +1639,7 @@
     {
       "id": 132,
       "img": "132.jpg",
-      "price": "от 10 290",
+      "price": 10290,
       "type": "order",
       "name": "Мастерка",
       "brand": "Nike",
@@ -1654,7 +1654,7 @@
     {
       "id": 133,
       "img": "133.jpg",
-      "price": "от 5 535",
+      "price": 5535,
       "type": "order",
       "name": "Джерси",
       "brand": "Umbra",
@@ -1669,7 +1669,7 @@
     {
       "id": 134,
       "img": "134.jpg",
-      "price": "от 3 285",
+      "price": 3285,
       "type": "order",
       "name": "Свитшот",
       "brand": "Adidas",
@@ -1684,7 +1684,7 @@
     {
       "id": 135,
       "img": "135.jpg",
-      "price": "от 9 735",
+      "price": 9735,
       "type": "order",
       "name": "Штаны",
       "brand": "Nike x Stussy",
@@ -1699,7 +1699,7 @@
     {
       "id": 136,
       "img": "136.jpg",
-      "price": "от 10 635",
+      "price": 10635,
       "type": "order",
       "name": "Штаны",
       "brand": "Nike x Stussy",
@@ -1714,7 +1714,7 @@
     {
       "id": 137,
       "img": "137.jpg",
-      "price": "от 3 750",
+      "price": 3750,
       "type": "order",
       "name": "Штаны",
       "brand": "Nike",
@@ -1729,7 +1729,7 @@
     {
       "id": 138,
       "img": "138.jpg",
-      "price": "от 5 835",
+      "price": 5835,
       "type": "order",
       "name": "Штаны",
       "brand": "Nike",
@@ -1744,7 +1744,7 @@
     {
       "id": 139,
       "img": "139.jpg",
-      "price": "от 5535",
+      "price": 5535,
       "type": "order",
       "name": "Штаны",
       "brand": "Nike",
@@ -1759,7 +1759,7 @@
     {
       "id": 140,
       "img": "140.jpg",
-      "price": "от 3 450",
+      "price": 3450,
       "type": "order",
       "name": "Брюки карго",
       "brand": "MT99",
@@ -1774,7 +1774,7 @@
     {
       "id": 141,
       "img": "141.jpg",
-      "price": "от 1 335",
+      "price": 1335,
       "type": "order",
       "name": "Брюки",
       "brand": "GNOMESHGH",
@@ -1789,7 +1789,7 @@
     {
       "id": 142,
       "img": "142.jpg",
-      "price": "от 1 485",
+      "price": 1485,
       "type": "order",
       "name": "Брюки",
       "brand": "GNOMESHGH",
@@ -1804,7 +1804,7 @@
     {
       "id": 143,
       "img": "143.jpg",
-      "price": "от 1 335",
+      "price": 1335,
       "type": "order",
       "name": "Брюки",
       "brand": "GNOMESHGH",
@@ -1819,7 +1819,7 @@
     {
       "id": 144,
       "img": "144.jpg",
-      "price": "от 1 485",
+      "price": 1485,
       "type": "order",
       "name": "Брюки карго",
       "brand": "SS23",
@@ -1834,7 +1834,7 @@
     {
       "id": 145,
       "img": "145.jpg",
-      "price": "от 1 485",
+      "price": 1485,
       "type": "order",
       "name": "SS23",
       "brand": "SS23",
@@ -1849,7 +1849,7 @@
     {
       "id": 146,
       "img": "146.jpg",
-      "price": "от 1 320",
+      "price": 1320,
       "type": "order",
       "name": "Брюки карго",
       "brand": "港仔文艺男",
@@ -1864,7 +1864,7 @@
     {
       "id": 147,
       "img": "147.jpg",
-      "price": "от 1 485",
+      "price": 1485,
       "type": "order",
       "name": "Джинсы",
       "brand": "COMOWA",
@@ -1879,7 +1879,7 @@
     {
       "id": 148,
       "img": "148.jpg",
-      "price": "от 1 485",
+      "price": 1485,
       "type": "order",
       "name": "Джинсы",
       "brand": "COMOWA",
@@ -1894,7 +1894,7 @@
     {
       "id": 149,
       "img": "149.jpg",
-      "price": "от 5 085",
+      "price": 5085,
       "type": "order",
       "name": "Куртка и брюки карго",
       "brand": "MIMOSA CHUR",
@@ -1909,7 +1909,7 @@
     {
       "id": 150,
       "img": "150.jpg",
-      "price": "от 2 385",
+      "price": 2385,
       "type": "order",
       "name": "Футболка",
       "brand": "UNIQLO",
@@ -1924,7 +1924,7 @@
     {
       "id": 151,
       "img": "151.jpg",
-      "price": "от 1 485",
+      "price": 1485,
       "type": "order",
       "name": "Джемпер",
       "brand": "WESTLINK",
@@ -1939,7 +1939,7 @@
     {
       "id": 152,
       "img": "152.jpg",
-      "price": "от 1 350",
+      "price": 1350,
       "type": "order",
       "name": "Джемпер",
       "brand": "WESTLINK",
@@ -1954,7 +1954,7 @@
     {
       "id": 153,
       "img": "153.jpg",
-      "price": "от 1 350",
+      "price": 1350,
       "type": "order",
       "name": "Футболка",
       "brand": "Nike",
@@ -1969,7 +1969,7 @@
     {
       "id": 154,
       "img": "154.jpg",
-      "price": "от 3 165",
+      "price": 3165,
       "type": "order",
       "name": "Футболка",
       "brand": "Nike",
@@ -1984,7 +1984,7 @@
     {
       "id": 155,
       "img": "155.jpg",
-      "price": "от 3 015",
+      "price": 3015,
       "type": "order",
       "name": "Лонгслив",
       "brand": "Nike",
@@ -1999,7 +1999,7 @@
     {
       "id": 156,
       "img": "156.jpg",
-      "price": "от 3135",
+      "price": 3135,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -2014,7 +2014,7 @@
     {
       "id": 157,
       "img": "157.jpg",
-      "price": "от 3 375",
+      "price": 3375,
       "type": "order",
       "name": "Свитшот",
       "brand": "Nike",
@@ -2029,7 +2029,7 @@
     {
       "id": 158,
       "img": "158.jpg",
-      "price": "от 5985",
+      "price": 5985,
       "type": "order",
       "name": "Футболка",
       "brand": "Adidas",
@@ -2044,7 +2044,7 @@
     {
       "id": 159,
       "img": "159.jpg",
-      "price": "от 5 985",
+      "price": 5985,
       "type": "order",
       "name": "Джерси",
       "brand": "Adidas",
@@ -2059,7 +2059,7 @@
     {
       "id": 160,
       "img": "160.jpg",
-      "price": "от 7 935",
+      "price": 7935,
       "type": "order",
       "name": "Джерси",
       "brand": "Nike x AMBUSH",
@@ -2074,7 +2074,7 @@
     {
       "id": 161,
       "img": "161.jpg",
-      "price": "от 9 285",
+      "price": 9285,
       "type": "order",
       "name": "Джерси",
       "brand": "Adidas",
@@ -2089,7 +2089,7 @@
     {
       "id": 162,
       "img": "162.jpg",
-      "price": "от 8 535",
+      "price": 8535,
       "type": "order",
       "name": "Джерси",
       "brand": "Nike",
@@ -2104,7 +2104,7 @@
     {
       "id": 163,
       "img": "163.jpg",
-      "price": "от 7185",
+      "price": 7185,
       "type": "order",
       "name": "Джерси",
       "brand": "Nike",
@@ -2119,7 +2119,7 @@
     {
       "id": 164,
       "img": "164.jpg",
-      "price": "от 6 525",
+      "price": 6525,
       "type": "order",
       "name": "Джерси",
       "brand": "Adidas",
@@ -2134,7 +2134,7 @@
     {
       "id": 165,
       "img": "165.jpg",
-      "price": "от 7 485",
+      "price": 7485,
       "type": "order",
       "name": "Джерси",
       "brand": "Nike",
@@ -2149,7 +2149,7 @@
     {
       "id": 166,
       "img": "166.jpg",
-      "price": "от 7 485",
+      "price": 7485,
       "type": "order",
       "name": "Футболка",
       "brand": "Nike",
@@ -2164,7 +2164,7 @@
     {
       "id": 167,
       "img": "167.jpg",
-      "price": "от 2 985",
+      "price": 2985,
       "type": "order",
       "name": "Футболка",
       "brand": "Nike",
@@ -2179,7 +2179,7 @@
     {
       "id": 168,
       "img": "168.jpg",
-      "price": "от 4 140",
+      "price": 4140,
       "type": "order",
       "name": "Футболка",
       "brand": "Nike",
@@ -2194,7 +2194,7 @@
     {
       "id": 169,
       "img": "169.jpg",
-      "price": "от 2 985",
+      "price": 2985,
       "type": "order",
       "name": "",
       "brand": "Nike ACG",
@@ -2209,7 +2209,7 @@
     {
       "id": 170,
       "img": "170.jpg",
-      "price": "от 2 625",
+      "price": 2625,
       "type": "order",
       "name": "",
       "brand": "Nike ACG",
@@ -2224,7 +2224,7 @@
     {
       "id": 171,
       "img": "171.jpg",
-      "price": "от 2 625",
+      "price": 2625,
       "type": "order",
       "name": "Рубашка футболка",
       "brand": "Nike",
@@ -2239,7 +2239,7 @@
     {
       "id": 172,
       "img": "172.jpg",
-      "price": "от 2 775",
+      "price": 2775,
       "type": "order",
       "name": "Шапка",
       "brand": "Carhartt",
@@ -2254,7 +2254,7 @@
     {
       "id": 173,
       "img": "173.jpg",
-      "price": "от 3 270",
+      "price": 3270,
       "type": "order",
       "name": "Шапка",
       "brand": "Carhartt",
@@ -2269,7 +2269,7 @@
     {
       "id": 174,
       "img": "174.jpg",
-      "price": "от 3 075",
+      "price": 3075,
       "type": "order",
       "name": "Шапка",
       "brand": "Carhartt",
@@ -2284,7 +2284,7 @@
     {
       "id": 175,
       "img": "175.jpg",
-      "price": "от 2 970",
+      "price": 2970,
       "type": "order",
       "name": "Шапка",
       "brand": "The North Face",
@@ -2299,7 +2299,7 @@
     {
       "id": 176,
       "img": "176.jpg",
-      "price": "от 4 635",
+      "price": 4635,
       "type": "order",
       "name": "",
       "brand": "Nike",
@@ -2314,7 +2314,7 @@
     {
       "id": 178,
       "img": "socs-nike.jpg",
-      "price": "1 900",
+      "price": 1900,
       "type": "stock",
       "name": "Носки",
       "brand": "Nike",
@@ -2323,7 +2323,7 @@
     {
       "id": 179,
       "img": "179.jpg",
-      "price": "от 6 878",
+      "price": 6878,
       "type": "stock",
       "name": "Брюки карго",
       "brand": "Jordan",
@@ -2332,12 +2332,11 @@
     {
       "id": 180,
       "img": "jordan-pants.jpg",
-      "price": "от 5 723",
+      "price": 5723,
       "type": "stock",
       "name": "Брюки карго",
       "brand": "Jordan",
       "sizes": "М, XL ,XXL"
     }
   ]
-  
 }
