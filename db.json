@@ -7,7 +7,8 @@
         "type": "stock",
         "name": "Пуховик",
         "brand": "ACG",
-        "sizes": "M"
+        "sizes": "M",
+        "gender": "Унисекс"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "type": "stock",
       "name": "Пуховик",
       "brand": "Nike",
-      "sizes": "M"
+      "sizes": "M",
+      "gender": "Унисекс"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "type": "stock",
       "name": "Пуховик",
       "brand": "Nike",
-      "sizes": "M"
+      "sizes": "M",
+      "gender": "Унисекс"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "type": "stock",
       "name": "Пуховик",
       "brand": "Nike",
-      "sizes": "S"
+      "sizes": "S",
+      "gender": "Женское"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "type": "stock",
       "name": "Жилетка",
       "brand": "The North Face",
-      "sizes": "S"
+      "sizes": "S",
+      "gender": "Женское"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "type": "stock",
       "name": "Ветровка",
       "brand": "The North Face",
-      "sizes": "S, L"
+      "sizes": "S, L",
+      "gender": "Унисекс"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "type": "stock",
       "name": "Ветровка",
       "brand": "Kreate",
-      "sizes": "S"
+      "sizes": "S",
+      "gender": "Мужское"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "type": "stock",
       "name": "Мастерка",
       "brand": "Nike",
-      "sizes": "XL"
+      "sizes": "XL",
+      "gender": "Мужское"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "type": "stock",
       "name": "Свитер",
       "brand": "Nike",
-      "sizes": "M, L"
+      "sizes": "M, L",
+      "gender": "Женское"
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "type": "stock",
       "name": "Свитер",
       "brand": "Зебра",
-      "sizes": "S"
+      "sizes": "S",
+      "gender": "Женское"
     },
     {
       "id": 11,
@@ -97,16 +107,8 @@
       "type": "stock",
       "name": "Свитер",
       "brand": "babugge",
-      "sizes": "M"
-    },
-    {
-      "id": 12,
-      "img": "zebra-sweater.webp",
-      "price": 4119,
-      "type": "stock",
-      "name": "Свитер",
-      "brand": "Зебра",
-      "sizes": "S"
+      "sizes": "M",
+      "gender": "Женское"
     },
     {
       "id": 13,
@@ -115,7 +117,8 @@
       "type": "stock",
       "name": "Свитер",
       "brand": "Зебра",
-      "sizes": "М"
+      "sizes": "М",
+      "gender": "Женское"
     },
     {
       "id": 14,
@@ -124,7 +127,8 @@
       "type": "stock",
       "name": "Штаны спортивные",
       "brand": "Jordan",
-      "sizes": "М"
+      "sizes": "М",
+      "gender": "Мужское"
     },
     {
       "id": 15,
@@ -133,7 +137,8 @@
       "type": "stock",
       "name": "Брюки",
       "brand": "Umbra",
-      "sizes": "M"
+      "sizes": "M",
+      "gender": "Мужское"
     },
     {
       "id": 16,
@@ -142,7 +147,8 @@
       "type": "stock",
       "name": "Штаны спортивные",
       "brand": "Nike",
-      "sizes": "M"
+      "sizes": "M",
+      "gender": "Мужское"
     },
     {
       "id": 17,
@@ -151,7 +157,8 @@
       "type": "stock",
       "name": "Брюки",
       "brand": "Nike",
-      "sizes": "M"
+      "sizes": "M",
+      "gender": "Унисекс"
     },
     {
       "id": 18,
@@ -160,7 +167,8 @@
       "type": "stock",
       "name": "Брюки",
       "brand": "Nike",
-      "sizes": "M"
+      "sizes": "M",
+      "gender": "Унисекс"
     },
     {
       "id": 19,
@@ -169,7 +177,8 @@
       "type": "stock",
       "name": "Шорты",
       "brand": "Adidas",
-      "sizes": "S"
+      "sizes": "S",
+      "gender": "Мужское"
     },
     {
       "id": 20,
@@ -178,7 +187,8 @@
       "type": "stock",
       "name": "Шорты",
       "brand": "Nike",
-      "sizes": "M, L, XL"
+      "sizes": "M, L, XL",
+      "gender": "Мужское"
     },
     {
       "id": 21,
@@ -187,7 +197,8 @@
       "type": "stock",
       "name": "Футболка",
       "brand": "Nike",
-      "sizes": "S, M, L, XL"
+      "sizes": "S, M, L, XL",
+      "gender": "Унисекс"
     },
     {
       "id": 22,
@@ -196,7 +207,8 @@
       "type": "stock",
       "name": "Футболка",
       "brand": "Nike",
-      "sizes": "S, M, L"
+      "sizes": "S, M, L",
+      "gender": "Унисекс"
     },
     {
       "id": 23,
@@ -205,7 +217,8 @@
       "type": "stock",
       "name": "Футболка",
       "brand": "Nike",
-      "sizes": "S, L, XL"
+      "sizes": "S, L, XL",
+      "gender": "Унисекс"
     },
     {
       "id": 24,
@@ -214,7 +227,8 @@
       "type": "stock",
       "name": "Шапка",
       "brand": "babugge",
-      "sizes": "One size"
+      "sizes": "One size",
+      "gender": "Унисекс"
     },
     {
       "id": 25,
@@ -223,7 +237,8 @@
       "type": "stock",
       "name": "Утепленная балаклава",
       "brand": "Cold Ink ",
-      "sizes": "One size"
+      "sizes": "One size",
+      "gender": "Унисекс"
     },
     {
       "id": 26,
@@ -232,7 +247,8 @@
       "type": "stock",
       "name": "Банданы",
       "brand": "Cold Ink",
-      "sizes": "One size"
+      "sizes": "One size",
+      "gender": "Унисекс"
     },
     {
       "id": 27,
@@ -241,7 +257,8 @@
       "type": "stock",
       "name": "Рюкзак",
       "brand": "Nike",
-      "sizes": "One size"
+      "sizes": "One size",
+      "gender": "Унисекс"
     },
     {
       "id": 28,
@@ -250,7 +267,8 @@
       "type": "stock",
       "name": "Рюкзак",
       "brand": "Nike",
-      "sizes": "One size"
+      "sizes": "One size",
+      "gender": "Унисекс"
     },
     {
       "id": 29,
@@ -259,7 +277,8 @@
       "type": "stock",
       "name": "Рюкзак",
       "brand": "Puma",
-      "sizes": "One size"
+      "sizes": "One size",
+      "gender": "Унисекс"
     },
     {
       "id": 30,
@@ -268,7 +287,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
-      "sizes": "10us 44eur 28cm"
+      "sizes": "10us 44eur 28cm",
+      "gender": "Унисекс"
     },
     {
       "id": 31,
@@ -277,7 +297,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "9.5us 43eur 27.5cm"
+      "sizes": "9.5us 43eur 27.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 32,
@@ -286,7 +307,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Asics",
-      "sizes": "9us 42.5eur 27cm"
+      "sizes": "9us 42.5eur 27cm",
+      "gender": "Унисекс"
     },
     {
       "id": 33,
@@ -295,7 +317,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "8.5us 42eur 26.5cm"
+      "sizes": "8.5us 42eur 26.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 34,
@@ -304,7 +327,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "8.5us 42eur 26.5cm"
+      "sizes": "8.5us 42eur 26.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 35,
@@ -313,7 +337,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
-      "sizes": "8us 41.5eur 26cm"
+      "sizes": "8us 41.5eur 26cm",
+      "gender": "Унисекс"
     },
     {
       "id": 36,
@@ -322,7 +347,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Lebron",
-      "sizes": "8us 41eur 26cm"
+      "sizes": "8us 41eur 26cm",
+      "gender": "Унисекс"
     },
     {
       "id": 37,
@@ -331,7 +357,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "7.5us 40.5eur 25.5cm"
+      "sizes": "7.5us 40.5eur 25.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 38,
@@ -340,7 +367,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
-      "sizes": "7us 40eur 25cm"
+      "sizes": "7us 40eur 25cm",
+      "gender": "Унисекс"
     },
     {
       "id": 39,
@@ -349,7 +377,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Asics",
-      "sizes": "6us 39eur 24.5cm"
+      "sizes": "6us 39eur 24.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 40,
@@ -358,7 +387,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "6us 38.5eur 24cm"
+      "sizes": "6us 38.5eur 24cm",
+      "gender": "Унисекс"
     },
     {
       "id": 41,
@@ -367,7 +397,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Blazer Mid",
-      "sizes": "5.5us 38eur 24cm"
+      "sizes": "5.5us 38eur 24cm",
+      "gender": "Унисекс"
     },
     {
       "id": 42,
@@ -376,7 +407,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Dunk",
-      "sizes": "6.5us 37.5eur 23.5cm"
+      "sizes": "6.5us 37.5eur 23.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 43,
@@ -385,7 +417,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "New Balance",
-      "sizes": "5us 37.5eur 23cm"
+      "sizes": "5us 37.5eur 23cm",
+      "gender": "Унисекс"
     },
     {
       "id": 44,
@@ -394,7 +427,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "4.5us 36.5eur 23.5cm"
+      "sizes": "4.5us 36.5eur 23.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 45,
@@ -403,7 +437,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "6us 36.5eur 23cm"
+      "sizes": "6us 36.5eur 23cm",
+      "gender": "Унисекс"
     },
     {
       "id": 46,
@@ -412,7 +447,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike Jordan 11",
-      "sizes": "6us 36.5eur 23cm"
+      "sizes": "6us 36.5eur 23cm",
+      "gender": "Унисекс"
     },
     {
       "id": 47,
@@ -421,7 +457,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Asics",
-      "sizes": "4us 36eur 22.5cm"
+      "sizes": "4us 36eur 22.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 48,
@@ -430,7 +467,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike TN",
-      "sizes": "5.5us 36eur 23cm"
+      "sizes": "5.5us 36eur 23cm",
+      "gender": "Унисекс"
     },
     {
       "id": 49,
@@ -439,7 +477,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike 95",
-      "sizes": "9.5us 43eur 27.5cm"
+      "sizes": "9.5us 43eur 27.5cm",
+      "gender": "Унисекс"
     },
     {
       "id": 50,
@@ -448,7 +487,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "Nike",
-      "sizes": "8us 41eur 26cm"
+      "sizes": "8us 41eur 26cm",
+      "gender": "Унисекс"
     },
     {
       "id": 51,
@@ -457,7 +497,8 @@
       "type": "stock",
       "name": "Кроссовки",
       "brand": "adidas",
-      "sizes": "3uk 35.5eur 21.5cm (kids)"
+      "sizes": "3uk 35.5eur 21.5cm (kids)",
+      "gender": "Унисекс"
     },
 
 
@@ -479,7 +520,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY6821T"
+      "url": "https://dw4.co/t/A/1TY6821T",
+      "gender": "Унисекс"
     },
     {
       "id": 53,
@@ -494,7 +536,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYVvwVZ"
+      "url": "https://dw4.co/t/A/1TYVvwVZ",
+      "gender": "Унисекс"
     },
     {
       "id": 54,
@@ -509,7 +552,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY6eqgN "
+      "url": "https://dw4.co/t/A/1TY6eqgN ",
+      "gender": "Унисекс"
     },
     {
       "id": 55,
@@ -524,7 +568,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYWdwGW"
+      "url": "https://dw4.co/t/A/1TYWdwGW",
+      "gender": "Унисекс"
     },
     {
       "id": 56,
@@ -539,7 +584,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY7G7Rb "
+      "url": "https://dw4.co/t/A/1TY7G7Rb ",
+      "gender": "Унисекс"
     },
     {
       "id": 57,
@@ -554,7 +600,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY7bRY2"
+      "url": "https://dw4.co/t/A/1TY7bRY2",
+      "gender": "Мужское"
     },
     {
       "id": 58,
@@ -569,7 +616,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY7kkE0"
+      "url": "https://dw4.co/t/A/1TY7kkE0",
+      "gender": "Унисекс"
     },
     {
       "id": 59,
@@ -584,7 +632,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY7r5CY"
+      "url": "https://dw4.co/t/A/1TY7r5CY",
+      "gender": "Унисекс"
     },
     {
       "id": 60,
@@ -599,7 +648,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYXYYwW"
+      "url": "https://dw4.co/t/A/1TYXYYwW",
+      "gender": "Унисекс"
     },
     {
       "id": 61,
@@ -614,7 +664,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY8249z"
+      "url": "https://dw4.co/t/A/1TY8249z",
+      "gender": "Унисекс"
     },
     {
       "id": 62,
@@ -629,7 +680,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY89miz"
+      "url": "https://dw4.co/t/A/1TY89miz",
+      "gender": "Унисекс"
     },
     {
       "id": 63,
@@ -644,7 +696,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYXsfUU"
+      "url": "https://dw4.co/t/A/1TYXsfUU",
+      "gender": "Унисекс"
     },
     {
       "id": 64,
@@ -659,7 +712,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYYOHLw"
+      "url": "https://dw4.co/t/A/1TYYOHLw",
+      "gender": "Унисекс"
     },
     {
       "id": 65,
@@ -674,7 +728,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYYTWsf"
+      "url": "https://dw4.co/t/A/1TYYTWsf",
+      "gender": "Унисекс"
     },
     {
       "id": 66,
@@ -689,7 +744,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYYhTwx"
+      "url": "https://dw4.co/t/A/1TYYhTwx",
+      "gender": "Унисекс"
     },
     {
       "id": 67,
@@ -704,7 +760,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYYl4ga "
+      "url": "https://dw4.co/t/A/1TYYl4ga ",
+      "gender": "Унисекс"
     },
     {
       "id": 68,
@@ -719,7 +776,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY9EE6V"
+      "url": "https://dw4.co/t/A/1TY9EE6V",
+      "gender": "Унисекс"
     },
     {
       "id": 70,
@@ -734,7 +792,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY9R1ZJ"
+      "url": "https://dw4.co/t/A/1TY9R1ZJ",
+      "gender": "Унисекс"
     },
     {
       "id": 71,
@@ -749,7 +808,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY9XBlT"
+      "url": "https://dw4.co/t/A/1TY9XBlT",
+      "gender": "Унисекс"
     },
     {
       "id": 72,
@@ -764,7 +824,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY9bv6S"
+      "url": "https://dw4.co/t/A/1TY9bv6S",
+      "gender": "Унисекс"
     },
     {
       "id": 74,
@@ -779,7 +840,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY9kLak"
+      "url": "https://dw4.co/t/A/1TY9kLak",
+      "gender": "Унисекс"
     },
     {
       "id": 75,
@@ -794,7 +856,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYZTQK3"
+      "url": "https://dw4.co/t/A/1TYZTQK3",
+      "gender": "Унисекс"
     },
     {
       "id": 76,
@@ -809,7 +872,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TY9v5Wu"
+      "url": "https://dw4.co/t/A/1TY9v5Wu",
+      "gender": "Унисекс"
     },
     {
       "id": 77,
@@ -824,7 +888,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYADy1U"
+      "url": "https://dw4.co/t/A/1TYADy1U",
+      "gender": "Унисекс"
     },
     {
       "id": 78,
@@ -839,7 +904,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYAiEO7"
+      "url": "https://dw4.co/t/A/1TYAiEO7",
+      "gender": "Унисекс"
     },
     {
       "id": 79,
@@ -854,7 +920,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYAotJ1"
+      "url": "https://dw4.co/t/A/1TYAotJ1",
+      "gender": "Унисекс"
     },
     {
       "id": 80,
@@ -869,7 +936,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYbIvhM"
+      "url": "https://dw4.co/t/A/1TYbIvhM",
+      "gender": "Женское"
     },
     {
       "id": 81,
@@ -884,7 +952,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYBhYCN"
+      "url": "https://dw4.co/t/A/1TYBhYCN",
+      "gender": "Женское"
     },
     {
       "id": 82,
@@ -899,7 +968,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYbUAtc"
+      "url": "https://dw4.co/t/A/1TYbUAtc",
+      "gender": "Женское"
     },
     {
       "id": 83,
@@ -914,7 +984,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYbdbO5"
+      "url": "https://dw4.co/t/A/1TYbdbO5",
+      "gender": "Женское"
     },
     {
       "id": 84,
@@ -929,7 +1000,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYC1ADN"
+      "url": "https://dw4.co/t/A/1TYC1ADN",
+      "gender": "Женское"
     },
     {
       "id": 85,
@@ -944,7 +1016,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYbr2p9 "
+      "url": "https://dw4.co/t/A/1TYbr2p9",
+      "gender": "Женское"
     },
     {
       "id": 86,
@@ -959,7 +1032,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYbwrxo"
+      "url": "https://dw4.co/t/A/1TYbwrxo",
+      "gender": "Женское"
     },
     {
       "id": 87,
@@ -974,7 +1048,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYc7OvI"
+      "url": "https://dw4.co/t/A/1TYc7OvI",
+      "gender": "Женское"
     },
     {
       "id": 88,
@@ -989,7 +1064,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYcNDqi"
+      "url": "https://dw4.co/t/A/1TYcNDqi",
+      "gender": "Женское"
     },
     {
       "id": 89,
@@ -1004,7 +1080,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYcigSf"
+      "url": "https://dw4.co/t/A/1TYcigSf",
+      "gender": "Унисекс"
     },
     {
       "id": 90,
@@ -1019,7 +1096,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYcrb5O"
+      "url": "https://dw4.co/t/A/1TYcrb5O",
+      "gender": "Женское"
     },
     {
       "id": 91,
@@ -1034,7 +1112,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYctI9X"
+      "url": "https://dw4.co/t/A/1TYctI9X",
+      "gender": "Унисекс"
     },
     {
       "id": 92,
@@ -1049,7 +1128,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYcwFaA"
+      "url": "https://dw4.co/t/A/1TYcwFaA",
+      "gender": "Женское"
     },
     {
       "id": 93,
@@ -1064,7 +1144,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYdLI6Q"
+      "url": "https://dw4.co/t/A/1TYdLI6Q",
+      "gender": "Мужское"
     },
     {
       "id": 94,
@@ -1079,7 +1160,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ3R6fL"
+      "url": "https://dw4.co/t/A/1TZ3R6fL",
+      "gender": "Мужское"
     },
     {
       "id": 95,
@@ -1094,7 +1176,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ3SsHh"
+      "url": "https://dw4.co/t/A/1TZ3SsHh",
+      "gender": "Мужское"
     },
     {
       "id": 96,
@@ -1109,7 +1192,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYdopEl"
+      "url": "https://dw4.co/t/A/1TYdopEl",
+      "gender": "Мужское"
     },
     {
       "id": 97,
@@ -1124,7 +1208,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ3XDJX"
+      "url": "https://dw4.co/t/A/1TZ3XDJX",
+      "gender": "Унисекс"
     },
     {
       "id": 98,
@@ -1139,7 +1224,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ3YV5Z"
+      "url": "https://dw4.co/t/A/1TZ3YV5Z",
+      "gender": "Унисекс"
     },
     {
       "id": 99,
@@ -1154,7 +1240,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYduwOm"
+      "url": "https://dw4.co/t/A/1TYduwOm",
+      "gender": "Унисекс"
     },
     {
       "id": 100,
@@ -1169,7 +1256,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYdw8CP"
+      "url": "https://dw4.co/t/A/1TYdw8CP",
+      "gender": "Унисекс"
     },
     {
       "id": 101,
@@ -1184,7 +1272,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYdxVfi"
+      "url": "https://dw4.co/t/A/1TYdxVfi",
+      "gender": "Унисекс"
     },
     {
       "id": 102,
@@ -1199,7 +1288,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYdzFdc"
+      "url": "https://dw4.co/t/A/1TYdzFdc",
+      "gender": "Унисекс"
     },
     {
       "id": 103,
@@ -1214,7 +1304,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYeBuzQ"
+      "url": "https://dw4.co/t/A/1TYeBuzQ",
+      "gender": "Мужское"
     },
     {
       "id": 104,
@@ -1229,7 +1320,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ3sy1X"
+      "url": "https://dw4.co/t/A/1TZ3sy1X",
+      "gender": "Унисекс"
     },
     {
       "id": 105,
@@ -1244,7 +1336,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYeI6Uo"
+      "url": "https://dw4.co/t/A/1TYeI6Uo",
+      "gender": "Унисекс"
     },
     {
       "id": 106,
@@ -1259,7 +1352,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYeK4UI"
+      "url": "https://dw4.co/t/A/1TYeK4UI",
+      "gender": "Унисекс"
     },
     {
       "id": 107,
@@ -1274,7 +1368,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYeM7nk"
+      "url": "https://dw4.co/t/A/1TYeM7nk",
+      "gender": "Унисекс"
     },
     {
       "id": 108,
@@ -1289,7 +1384,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYePGa9"
+      "url": "https://dw4.co/t/A/1TYePGa9",
+      "gender": "Унисекс"
     },
     {
       "id": 109,
@@ -1304,7 +1400,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ49FNI"
+      "url": "https://dw4.co/t/A/1TZ49FNI",
+      "gender": "Унисекс"
     },
     {
       "id": 110,
@@ -1319,7 +1416,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYeWGA4"
+      "url": "https://dw4.co/t/A/1TYeWGA4",
+      "gender": "Унисекс"
     },
     {
       "id": 111,
@@ -1334,7 +1432,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYeXB3f"
+      "url": "https://dw4.co/t/A/1TYeXB3f",
+      "gender": "Унисекс"
     },
     {
       "id": 112,
@@ -1349,7 +1448,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYeZwFc"
+      "url": "https://dw4.co/t/A/1TYeZwFc",
+      "gender": "Унисекс"
     },
     {
       "id": 113,
@@ -1364,7 +1464,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYecXlD"
+      "url": "https://dw4.co/t/A/1TYecXlD",
+      "gender": "Мужское"
     },
     {
       "id": 114,
@@ -1379,7 +1480,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYegl1k"
+      "url": "https://dw4.co/t/A/1TYegl1k",
+      "gender": "Унисекс"
     },
     {
       "id": 115,
@@ -1394,7 +1496,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ4NF7P"
+      "url": "https://dw4.co/t/A/1TZ4NF7P",
+      "gender": "Унисекс"
     },
     {
       "id": 116 ,
@@ -1409,7 +1512,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ4OY9x"
+      "url": "https://dw4.co/t/A/1TZ4OY9x",
+      "gender": "Унисекс"
     },
     {
       "id": 117,
@@ -1424,7 +1528,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYepeTA"
+      "url": "https://dw4.co/t/A/1TYepeTA",
+      "gender": "Женское"
     },
     {
       "id": 118,
@@ -1439,7 +1544,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ4cJQw"
+      "url": "https://dw4.co/t/A/1TZ4cJQw",
+      "gender": "Унисекс"
     },
     {
       "id": 119,
@@ -1454,7 +1560,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYf07pU"
+      "url": "https://dw4.co/t/A/1TYf07pU",
+      "gender": "Унисекс"
     },
     {
       "id": 120,
@@ -1469,7 +1576,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ4jRKE"
+      "url": "https://dw4.co/t/A/1TZ4jRKE",
+      "gender": "Унисекс"
     },
     {
       "id": 121,
@@ -1484,7 +1592,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ4uzXm"
+      "url": "https://dw4.co/t/A/1TZ4uzXm",
+      "gender": "Унисекс"
     },
     {
       "id": 122,
@@ -1499,7 +1608,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ4zQxg"
+      "url": "https://dw4.co/t/A/1TZ4zQxg",
+      "gender": "Унисекс"
     },
     {
       "id": 123,
@@ -1514,7 +1624,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ53lOt"
+      "url": "https://dw4.co/t/A/1TZ53lOt",
+      "gender": "Унисекс"
     },
     {
       "id": 124,
@@ -1529,7 +1640,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYfRp5x"
+      "url": "https://dw4.co/t/A/1TYfRp5x",
+      "gender": "Унисекс"
     },
     {
       "id": 125,
@@ -1544,7 +1656,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ58hZi"
+      "url": "https://dw4.co/t/A/1TZ58hZi",
+      "gender": "Унисекс"
     },
     {
       "id": 126,
@@ -1559,7 +1672,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ5AXTf"
+      "url": "https://dw4.co/t/A/1TZ5AXTf",
+      "gender": "Унисекс"
     },
     {
       "id": 127,
@@ -1574,7 +1688,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ5ErXT"
+      "url": "https://dw4.co/t/A/1TZ5ErXT",
+      "gender": "Унисекс"
     },
     {
       "id": 128,
@@ -1589,7 +1704,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ5IESf"
+      "url": "https://dw4.co/t/A/1TZ5IESf",
+      "gender": "Унисекс"
     },
     {
       "id": 129,
@@ -1604,7 +1720,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYfdK3a"
+      "url": "https://dw4.co/t/A/1TYfdK3a",
+      "gender": "Унисекс"
     },
     {
       "id": 130,
@@ -1619,7 +1736,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYffrbo"
+      "url": "https://dw4.co/t/A/1TYffrbo",
+      "gender": "Унисекс"
     },
     {
       "id": 131,
@@ -1634,7 +1752,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYflcr9"
+      "url": "https://dw4.co/t/A/1TYflcr9",
+      "gender": "Мужское"
     },
     {
       "id": 132,
@@ -1649,7 +1768,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ5T08I"
+      "url": "https://dw4.co/t/A/1TZ5T08I",
+      "gender": "Мужское"
     },
     {
       "id": 133,
@@ -1664,7 +1784,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TYgANO4"
+      "url": "https://dw4.co/t/A/1TYgANO4",
+      "gender": "Мужское"
     },
     {
       "id": 134,
@@ -1679,7 +1800,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TZ5sXmi"
+      "url": "https://dw4.co/t/A/1TZ5sXmi",
+      "gender": "Унисекс"
     },
     {
       "id": 135,
@@ -1694,7 +1816,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TajiloK"
+      "url": "https://dw4.co/t/A/1TajiloK",
+      "gender": "Унисекс"
     },
     {
       "id": 136,
@@ -1709,7 +1832,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaMmAsR"
+      "url": "https://dw4.co/t/A/1TaMmAsR",
+      "gender": "Унисекс"
     },
     {
       "id": 137,
@@ -1724,7 +1848,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaNZsgQ"
+      "url": "https://dw4.co/t/A/1TaNZsgQ",
+      "gender": "Унисекс"
     },
     {
       "id": 138,
@@ -1739,7 +1864,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1Taotqyc"
+      "url": "https://dw4.co/t/A/1Taotqyc",
+      "gender": "Унисекс"
     },
     {
       "id": 139,
@@ -1754,7 +1880,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaP9WBs"
+      "url": "https://dw4.co/t/A/1TaP9WBs",
+      "gender": "Унисекс"
     },
     {
       "id": 140,
@@ -1769,7 +1896,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaPEY6o"
+      "url": "https://dw4.co/t/A/1TaPEY6o",
+      "gender": "Женское"
     },
     {
       "id": 141,
@@ -1784,7 +1912,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaPKktm"
+      "url": "https://dw4.co/t/A/1TaPKktm",
+      "gender": "Женское"
     },
     {
       "id": 142,
@@ -1799,7 +1928,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaPO86w"
+      "url": "https://dw4.co/t/A/1TaPO86w",
+      "gender": "Женское"
     },
     {
       "id": 143,
@@ -1814,7 +1944,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaPSIZv"
+      "url": "https://dw4.co/t/A/1TaPSIZv",
+      "gender": "Женское"
     },
     {
       "id": 144,
@@ -1829,7 +1960,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TapMwO0"
+      "url": "https://dw4.co/t/A/1TapMwO0",
+      "gender": "Унисекс"
     },
     {
       "id": 145,
@@ -1844,7 +1976,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaPaP4Q"
+      "url": "https://dw4.co/t/A/1TaPaP4Q",
+      "gender": "Унисекс"
     },
     {
       "id": 146,
@@ -1859,7 +1992,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaPeftu"
+      "url": "https://dw4.co/t/A/1TaPeftu",
+      "gender": "Унисекс"
     },
     {
       "id": 147,
@@ -1874,7 +2008,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TapYDLK"
+      "url": "https://dw4.co/t/A/1TapYDLK",
+      "gender": "Унисекс"
     },
     {
       "id": 148,
@@ -1889,7 +2024,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1Tape9W3"
+      "url": "https://dw4.co/t/A/1Tape9W3",
+      "gender": "Унисекс"
     },
     {
       "id": 149,
@@ -1904,7 +2040,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQ3htS"
+      "url": "https://dw4.co/t/A/1TaQ3htS",
+      "gender": "Женское"
     },
     {
       "id": 150,
@@ -1919,7 +2056,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQ7mtG"
+      "url": "https://dw4.co/t/A/1TaQ7mtG",
+      "gender": "Женское"
     },
     {
       "id": 151,
@@ -1934,7 +2072,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQBQzZ"
+      "url": "https://dw4.co/t/A/1TaQBQzZ",
+      "gender": "Женское"
     },
     {
       "id": 152,
@@ -1949,7 +2088,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQBQzZ"
+      "url": "https://dw4.co/t/A/1TaQBQzZ",
+      "gender": "Унисекс"
     },
     {
       "id": 153,
@@ -1964,7 +2104,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQKdHx"
+      "url": "https://dw4.co/t/A/1TaQKdHx",
+      "gender": "Женское"
     },
     {
       "id": 154,
@@ -1979,7 +2120,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQNgv9"
+      "url": "https://dw4.co/t/A/1TaQNgv9",
+      "gender": "Женское"
     },
     {
       "id": 155,
@@ -1994,7 +2136,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaqHqv9"
+      "url": "https://dw4.co/t/A/1TaqHqv9",
+      "gender": "Унисекс"
     },
     {
       "id": 156,
@@ -2009,7 +2152,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQTFBm"
+      "url": "https://dw4.co/t/A/1TaQTFBm",
+      "gender": "Унисекс"
     },
     {
       "id": 157,
@@ -2024,7 +2168,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQYJ76"
+      "url": "https://dw4.co/t/A/1TaQYJ76",
+      "gender": "Женское"
     },
     {
       "id": 158,
@@ -2039,7 +2184,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQelGF"
+      "url": "https://dw4.co/t/A/1TaQelGF",
+      "gender": "Унисекс"
     },
     {
       "id": 159,
@@ -2054,7 +2200,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQikzQ"
+      "url": "https://dw4.co/t/A/1TaQikzQ",
+      "gender": "Мужское"
     },
     {
       "id": 160,
@@ -2069,7 +2216,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaQlhyu"
+      "url": "https://dw4.co/t/A/1TaQlhyu",
+      "gender": "Мужское"
     },
     {
       "id": 161,
@@ -2084,7 +2232,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1Taqg1nd"
+      "url": "https://dw4.co/t/A/1Taqg1nd",
+      "gender": "Мужское"
     },
     {
       "id": 162,
@@ -2099,7 +2248,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaqlOFv"
+      "url": "https://dw4.co/t/A/1TaqlOFv",
+      "gender": "Мужское"
     },
     {
       "id": 163,
@@ -2114,7 +2264,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaqoRnO"
+      "url": "https://dw4.co/t/A/1TaqoRnO",
+      "gender": "Мужское"
     },
     {
       "id": 164,
@@ -2129,7 +2280,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaR24h3"
+      "url": "https://dw4.co/t/A/1TaR24h3",
+      "gender": "Мужское"
     },
     {
       "id": 165,
@@ -2144,7 +2296,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaR4k3r"
+      "url": "https://dw4.co/t/A/1TaR4k3r",
+      "gender": "Мужское"
     },
     {
       "id": 166,
@@ -2159,7 +2312,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRAUeK"
+      "url": "https://dw4.co/t/A/1TaRAUeK",
+      "gender": "Мужское"
     },
     {
       "id": 167,
@@ -2174,7 +2328,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRDVW9"
+      "url": "https://dw4.co/t/A/1TaRDVW9",
+      "gender": "Унисекс"
     },
     {
       "id": 168,
@@ -2189,7 +2344,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRG3io"
+      "url": "https://dw4.co/t/A/1TaRG3io",
+      "gender": "Унисекс"
     },
     {
       "id": 169,
@@ -2204,7 +2360,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRIepQ"
+      "url": "https://dw4.co/t/A/1TaRIepQ",
+      "gender": "Унисекс"
     },
     {
       "id": 170,
@@ -2219,7 +2376,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRLHA1"
+      "url": "https://dw4.co/t/A/1TaRLHA1",
+      "gender": "Мужское"
     },
     {
       "id": 171,
@@ -2234,7 +2392,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRPx6x"
+      "url": "https://dw4.co/t/A/1TaRPx6x",
+      "gender": "Унисекс"
     },
     {
       "id": 172,
@@ -2249,7 +2408,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRVHEG"
+      "url": "https://dw4.co/t/A/1TaRVHEG",
+      "gender": "Унисекс"
     },
     {
       "id": 173,
@@ -2264,7 +2424,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRYv7S"
+      "url": "https://dw4.co/t/A/1TaRYv7S",
+      "gender": "Унисекс"
     },
     {
       "id": 174,
@@ -2279,7 +2440,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TaRePl3"
+      "url": "https://dw4.co/t/A/1TaRePl3",
+      "gender": "Унисекс"
     },
     {
       "id": 175,
@@ -2294,7 +2456,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TarX8Ki"
+      "url": "https://dw4.co/t/A/1TarX8Ki",
+      "gender": "Унисекс"
     },
     {
       "id": 176,
@@ -2309,7 +2472,8 @@
       "sizeXL": "XL",
       "quantity": 1,
       "size": "",
-      "url": "https://dw4.co/t/A/1TarcXEf"
+      "url": "https://dw4.co/t/A/1TarcXEf",
+      "gender": "Унисекс"
     },
     {
       "id": 178,
@@ -2318,7 +2482,8 @@
       "type": "stock",
       "name": "Носки",
       "brand": "Nike",
-      "sizes": "S, M, L"
+      "sizes": "S, M, L",
+      "gender": "Унисекс"
     },
     {
       "id": 179,
@@ -2327,7 +2492,8 @@
       "type": "stock",
       "name": "Брюки карго",
       "brand": "Jordan",
-      "sizes": "M, L, XL, XXL"
+      "sizes": "M, L, XL, XXL",
+      "gender": "Мужское"
     },
     {
       "id": 180,
@@ -2336,7 +2502,8 @@
       "type": "stock",
       "name": "Брюки карго",
       "brand": "Jordan",
-      "sizes": "М, XL ,XXL"
+      "sizes": "М, XL ,XXL",
+      "gender": "Мужское"
     }
   ]
   
