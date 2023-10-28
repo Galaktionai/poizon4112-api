@@ -9,7 +9,7 @@
       "brand": "Nike",
       "sizes": "S",
       "gender": "Женское",
-      "category": "Куртка"
+      "category": "Куртки"
     },
     {
       "id": 5,
@@ -20,7 +20,7 @@
       "brand": "The North Face",
       "sizes": "S",
       "gender": "Женское",
-      "category": "Куртка"
+      "category": "Куртки"
     },
     {
       "id": 6,
@@ -31,7 +31,7 @@
       "brand": "The North Face",
       "sizes": "S, L",
       "gender": "Унисекс",
-      "category": "Ветровка"
+      "category": "Ветровки"
     },
     {
       "id": 7,
@@ -42,7 +42,7 @@
       "brand": "Kreate",
       "sizes": "S",
       "gender": "Мужское",
-      "category": "Ветровка"
+      "category": "Ветровки"
     },
     {
       "id": 9,
@@ -451,7 +451,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY6821T",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 53,
@@ -468,7 +468,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYVvwVZ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 54,
@@ -485,7 +485,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY6eqgN ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 55,
@@ -502,7 +502,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYWdwGW",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 56,
@@ -519,7 +519,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY7G7Rb ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 57,
@@ -536,7 +536,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY7bRY2",
       "gender": "Мужское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 58,
@@ -553,7 +553,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY7kkE0",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 59,
@@ -570,7 +570,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY7r5CY",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 60,
@@ -587,7 +587,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYXYYwW",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 61,
@@ -604,7 +604,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY8249z",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 62,
@@ -621,7 +621,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY89miz",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 63,
@@ -638,7 +638,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYXsfUU",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 64,
@@ -655,7 +655,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYOHLw",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 65,
@@ -672,7 +672,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYTWsf",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 66,
@@ -689,7 +689,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYhTwx",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 67,
@@ -706,7 +706,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYl4ga ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 68,
@@ -723,7 +723,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY9EE6V",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 70,
@@ -740,7 +740,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY9R1ZJ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 71,
@@ -757,7 +757,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY9XBlT",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 72,
@@ -774,7 +774,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY9bv6S",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 74,
@@ -791,7 +791,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY9kLak",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 75,
@@ -808,7 +808,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYZTQK3",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 76,
@@ -825,7 +825,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TY9v5Wu",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 77,
@@ -842,7 +842,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYADy1U",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 78,
@@ -859,7 +859,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYAiEO7",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 79,
@@ -876,7 +876,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYAotJ1",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 80,
@@ -893,7 +893,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbIvhM",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 81,
@@ -910,7 +910,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYBhYCN",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 82,
@@ -927,7 +927,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbUAtc",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 83,
@@ -944,7 +944,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbdbO5",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 84,
@@ -961,7 +961,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYC1ADN",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 85,
@@ -978,7 +978,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbr2p9",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 86,
@@ -995,7 +995,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbwrxo",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 87,
@@ -1012,7 +1012,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYc7OvI",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 88,
@@ -1029,7 +1029,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYcNDqi",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 89,
@@ -1046,14 +1046,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYcigSf",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 90,
       "img": "90.webp",
       "price": 8985,
       "type": "order",
-      "name": "Куртка пуховик",
+      "name": "Куртка",
       "brand": "CAMEL",
       "sizeS": "S",
       "sizeM": "M",
@@ -1063,14 +1063,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYcrb5O",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 91,
       "img": "91.webp",
       "price": 59985,
       "type": "order",
-      "name": "Куртка пуховик",
+      "name": "Пуховик",
       "brand": "Supreme FW22 Week 13 x THE NORTH FACE",
       "sizeS": "S",
       "sizeM": "M",
@@ -1080,7 +1080,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYctI9X",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 92,
@@ -1097,7 +1097,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYcwFaA",
       "gender": "Женское",
-      "category": ""
+      "category": "Куртки"
     },
     {
       "id": 93,
@@ -1114,7 +1114,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYdLI6Q",
       "gender": "Мужское",
-      "category": ""
+      "category": "Пуховики"
     },
     {
       "id": 94,
@@ -1131,7 +1131,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ3R6fL",
       "gender": "Мужское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 95,
@@ -1139,7 +1139,7 @@
       "price": 5985,
       "type": "order",
       "name": "Худи",
-      "brand": "Nike",
+      "brand": "Nike Tech Fleece",
       "sizeS": "S",
       "sizeM": "M",
       "sizeL": "L",
@@ -1148,7 +1148,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ3SsHh",
       "gender": "Мужское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 96,
@@ -1156,7 +1156,7 @@
       "price": 11085,
       "type": "order",
       "name": "Худи",
-      "brand": "Nike",
+      "brand": "Nike Tech Fleece",
       "sizeS": "S",
       "sizeM": "M",
       "sizeL": "L",
@@ -1165,7 +1165,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYdopEl",
       "gender": "Мужское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 97,
@@ -1182,7 +1182,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ3XDJX",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 98,
@@ -1199,7 +1199,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ3YV5Z",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 99,
@@ -1216,7 +1216,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYduwOm",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 100,
@@ -1233,7 +1233,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYdw8CP",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 101,
@@ -1250,7 +1250,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYdxVfi",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 102,
@@ -1267,7 +1267,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYdzFdc",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 103,
@@ -1284,7 +1284,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYeBuzQ",
       "gender": "Мужское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 104,
@@ -1301,7 +1301,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ3sy1X",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 105,
@@ -1318,7 +1318,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYeI6Uo",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 106,
@@ -1335,7 +1335,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYeK4UI",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 107,
@@ -1352,7 +1352,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYeM7nk",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 108,
@@ -1369,7 +1369,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYePGa9",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 109,
@@ -1386,7 +1386,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ49FNI",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 110,
@@ -1403,7 +1403,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYeWGA4",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 111,
@@ -1420,7 +1420,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYeXB3f",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 112,
@@ -1437,7 +1437,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYeZwFc",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 113,
@@ -1454,7 +1454,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYecXlD",
       "gender": "Мужское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 114,
@@ -1471,7 +1471,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYegl1k",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 115,
@@ -1488,7 +1488,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ4NF7P",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 116 ,
@@ -1505,7 +1505,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ4OY9x",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 117,
@@ -1522,7 +1522,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYepeTA",
       "gender": "Женское",
-      "category": ""
+      "category": "Водолазки и свитера"
     },
     {
       "id": 118,
@@ -1539,7 +1539,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ4cJQw",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 119,
@@ -1556,7 +1556,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYf07pU",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 120,
@@ -1573,7 +1573,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ4jRKE",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 121,
@@ -1590,7 +1590,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ4uzXm",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 122,
@@ -1607,15 +1607,15 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ4zQxg",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 123,
       "img": "123.webp",
       "price": 3870,
       "type": "order",
-      "name": "Nike ACG",
-      "brand": "",
+      "name": "Свитшот",
+      "brand": "Nike ACG",
       "sizeS": "S",
       "sizeM": "M",
       "sizeL": "L",
@@ -1624,7 +1624,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ53lOt",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 124,
@@ -1641,7 +1641,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYfRp5x",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 125,
@@ -1658,7 +1658,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ58hZi",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 126,
@@ -1675,7 +1675,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ5AXTf",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 127,
@@ -1692,7 +1692,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ5ErXT",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 128,
@@ -1700,7 +1700,7 @@
       "price": 3870,
       "type": "order",
       "name": "Мастерка",
-      "brand": "",
+      "brand": "Adidas",
       "sizeS": "S",
       "sizeM": "M",
       "sizeL": "L",
@@ -1709,7 +1709,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ5IESf",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ветровки"
     },
     {
       "id": 129,
@@ -1726,7 +1726,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYfdK3a",
       "gender": "Унисекс",
-      "category": ""
+      "category": "свитшоты"
     },
     {
       "id": 130,
@@ -1743,7 +1743,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYffrbo",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 131,
@@ -1760,7 +1760,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYflcr9",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 132,
@@ -1777,7 +1777,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ5T08I",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ветровки"
     },
     {
       "id": 133,
@@ -1794,7 +1794,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYgANO4",
       "gender": "Мужское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 134,
@@ -1811,14 +1811,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TZ5sXmi",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 135,
       "img": "135.webp",
       "price": 9735,
       "type": "order",
-      "name": "Штаны",
+      "name": "Брюки",
       "brand": "Nike x Stussy",
       "sizeS": "S",
       "sizeM": "M",
@@ -1828,14 +1828,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TajiloK",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 136,
       "img": "136.webp",
       "price": 10635,
       "type": "order",
-      "name": "Штаны",
+      "name": "Брюки",
       "brand": "Nike x Stussy",
       "sizeS": "S",
       "sizeM": "M",
@@ -1845,14 +1845,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaMmAsR",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 137,
       "img": "137.webp",
       "price": 3750,
       "type": "order",
-      "name": "Штаны",
+      "name": "Брюки",
       "brand": "Nike",
       "sizeS": "S",
       "sizeM": "M",
@@ -1862,7 +1862,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaNZsgQ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 138,
@@ -1870,7 +1870,7 @@
       "price": 5835,
       "type": "order",
       "name": "Штаны",
-      "brand": "Nike",
+      "brand": "Брюки",
       "sizeS": "S",
       "sizeM": "M",
       "sizeL": "L",
@@ -1879,14 +1879,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1Taotqyc",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 139,
       "img": "139.webp",
       "price": 5535,
       "type": "order",
-      "name": "Штаны",
+      "name": "Брюки",
       "brand": "Nike",
       "sizeS": "S",
       "sizeM": "M",
@@ -1896,7 +1896,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaP9WBs",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 140,
@@ -1913,7 +1913,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaPEY6o",
       "gender": "Женское",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 141,
@@ -1930,7 +1930,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaPKktm",
       "gender": "Женское",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 142,
@@ -1947,7 +1947,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaPO86w",
       "gender": "Женское",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 143,
@@ -1964,7 +1964,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaPSIZv",
       "gender": "Женское",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 144,
@@ -1981,14 +1981,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TapMwO0",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 145,
       "img": "145.webp",
       "price": 1485,
       "type": "order",
-      "name": "SS23",
+      "name": "Брюки",
       "brand": "SS23",
       "sizeS": "S",
       "sizeM": "M",
@@ -1998,7 +1998,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaPaP4Q",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 146,
@@ -2015,7 +2015,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaPeftu",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 147,
@@ -2032,7 +2032,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TapYDLK",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 148,
@@ -2049,7 +2049,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1Tape9W3",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 149,
@@ -2066,7 +2066,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQ3htS",
       "gender": "Женское",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 150,
@@ -2083,7 +2083,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQ7mtG",
       "gender": "Женское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 151,
@@ -2100,7 +2100,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQBQzZ",
       "gender": "Женское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 152,
@@ -2117,7 +2117,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQBQzZ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 153,
@@ -2134,7 +2134,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQKdHx",
       "gender": "Женское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 154,
@@ -2151,7 +2151,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQNgv9",
       "gender": "Женское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 155,
@@ -2168,7 +2168,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaqHqv9",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 156,
@@ -2185,7 +2185,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQTFBm",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 157,
@@ -2202,7 +2202,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQYJ76",
       "gender": "Женское",
-      "category": ""
+      "category": "Худи и свитшоты"
     },
     {
       "id": 158,
@@ -2219,7 +2219,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQelGF",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 159,
@@ -2236,7 +2236,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQikzQ",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 160,
@@ -2253,7 +2253,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaQlhyu",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 161,
@@ -2270,7 +2270,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1Taqg1nd",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 162,
@@ -2287,7 +2287,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaqlOFv",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 163,
@@ -2304,7 +2304,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaqoRnO",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 164,
@@ -2321,7 +2321,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaR24h3",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 165,
@@ -2338,7 +2338,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaR4k3r",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 166,
@@ -2355,7 +2355,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRAUeK",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 167,
@@ -2372,7 +2372,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRDVW9",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 168,
@@ -2389,14 +2389,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRG3io",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 169,
       "img": "169.webp",
       "price": 2985,
       "type": "order",
-      "name": "",
+      "name": "Футболка",
       "brand": "Nike ACG",
       "sizeS": "S",
       "sizeM": "M",
@@ -2406,14 +2406,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRIepQ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 170,
       "img": "170.webp",
       "price": 2625,
       "type": "order",
-      "name": "",
+      "name": "Футболка",
       "brand": "Nike ACG",
       "sizeS": "S",
       "sizeM": "M",
@@ -2423,7 +2423,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRLHA1",
       "gender": "Мужское",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 171,
@@ -2440,7 +2440,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRPx6x",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Футболки"
     },
     {
       "id": 172,
@@ -2457,7 +2457,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRVHEG",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Шапки"
     },
     {
       "id": 173,
@@ -2474,7 +2474,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRYv7S",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Шапки"
     },
     {
       "id": 174,
@@ -2491,7 +2491,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TaRePl3",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Шапки"
     },
     {
       "id": 175,
@@ -2508,14 +2508,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TarX8Ki",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Шапки"
     },
     {
       "id": 176,
       "img": "176.webp",
       "price": 4635,
       "type": "order",
-      "name": "",
+      "name": "Шапки",
       "brand": "Nike",
       "sizeS": "S",
       "sizeM": "M",
@@ -2525,7 +2525,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TarcXEf",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Шапки"
     },
     {
       "id": 178,
@@ -2536,7 +2536,7 @@
       "brand": "Nike",
       "sizes": "S, M, L",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Носки"
     },
     {
       "id": 179,
@@ -2547,7 +2547,7 @@
       "brand": "Jordan",
       "sizes": "M, L, XL, XXL",
       "gender": "Мужское",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 180,
@@ -2558,7 +2558,7 @@
       "brand": "Jordan",
       "sizes": "М, XL ,XXL",
       "gender": "Мужское",
-      "category": ""
+      "category": "Брюки"
     },
     {
       "id": 181,
@@ -2575,7 +2575,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFGQrVS",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 182,
@@ -2592,7 +2592,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFJh7BD ",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 183,
@@ -2609,7 +2609,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEvdmMA",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 184,
@@ -2626,7 +2626,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFGZ437",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 185,
@@ -2643,7 +2643,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEsQi8k",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 186,
@@ -2660,7 +2660,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEse8OS ",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 187,
@@ -2677,7 +2677,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFHag6M",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 188,
@@ -2694,7 +2694,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFHimZJ",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 189,
@@ -2711,7 +2711,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEtey8j",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 190,
@@ -2728,7 +2728,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFI7vKO",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 191,
@@ -2745,7 +2745,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFICYkO",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 192,
@@ -2762,7 +2762,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFII4qZ",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 193,
@@ -2779,7 +2779,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEu8EIh ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 194,
@@ -2796,7 +2796,7 @@
       "size": "", 
       "url": "https://dw4.co/t/A/1VFIiAbK ",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 195,
@@ -2813,7 +2813,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFIxGky",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 196,
@@ -2830,7 +2830,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEuwryB ",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 197,
@@ -2847,7 +2847,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEv6cL6",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 198,
@@ -2864,7 +2864,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFHMEP1",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 199,
@@ -2881,7 +2881,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFK4HcP",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 200,
@@ -2898,7 +2898,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEw94Wj",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 201,
@@ -2915,7 +2915,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEwD7XS",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 202,
@@ -2932,7 +2932,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFKXZ6A",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 203,
@@ -2949,7 +2949,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEwiLKV",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 204,
@@ -2966,7 +2966,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFL0ubv",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 205,
@@ -2983,7 +2983,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEwzkRS",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 206,
@@ -3000,7 +3000,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEx4zXO",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 207,
@@ -3017,7 +3017,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFLQEc2",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 208,
@@ -3034,7 +3034,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VExbm98",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 209,
@@ -3051,7 +3051,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VExwOoU",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 210,
@@ -3068,7 +3068,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEy96cm",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 211,
@@ -3085,7 +3085,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEyUuho",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 212,
@@ -3102,7 +3102,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFNLsWm",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 213,
@@ -3119,7 +3119,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFMZn55",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 214,
@@ -3136,7 +3136,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFMKTaC",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 215,
@@ -3153,7 +3153,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFMSJGd",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 216,
@@ -3170,7 +3170,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEyFgjH",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 217,
@@ -3187,7 +3187,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFMhcux",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 218,
@@ -3204,7 +3204,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFOknh2",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 219,
@@ -3221,7 +3221,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VF0Me3E",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 220,
@@ -3238,7 +3238,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFORQZC",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 221,
@@ -3255,7 +3255,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VF06Xw2",
       "gender": "Унисекс",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 222,
@@ -3272,7 +3272,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFNz0nb",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 223,
@@ -3289,7 +3289,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEzxrsO",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 224,
@@ -3306,7 +3306,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFNaeqi",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 225,
@@ -3323,7 +3323,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEzH8JC",
       "gender": "Мужское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 226,
@@ -3340,7 +3340,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFN1mxl",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 227,
@@ -3357,7 +3357,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEyhfU5",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 228,
@@ -3374,7 +3374,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VFMst13",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     },
     {
       "id": 229,
@@ -3391,9 +3391,8 @@
       "size": "",
       "url": "https://dw4.co/t/A/1VEyYWrp",
       "gender": "Женское",
-      "category": ""
+      "category": "Ботинки"
     }
-
   ]
   
 }
