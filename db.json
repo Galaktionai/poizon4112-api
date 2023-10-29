@@ -2921,11 +2921,11 @@
     {
       "id": 180,
       "img": "jordan-pants.webp",
-      "price": 2129,
+      "price": 5723,
       "type": "stock",
       "name": "Брюки карго",
       "brand": "Jordan",
-      "sizes": "М, XL ,XXL",
+      "sizes": "М-7508, XL-5723, XXL-5822",
       "gender": "Мужское",
       "category": "Брюки"
     },
