@@ -14,7 +14,7 @@
     {
       "id": 5,
       "img": "tnf-vest-black.webp",
-      "price": 7788,
+      "price": 11333,
       "type": "stock",
       "name": "Жилетка",
       "brand": "The North Face",
@@ -681,7 +681,7 @@
       "img": "64.webp",
       "price": 20535,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "The North Face",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -694,14 +694,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYOHLw",
       "gender": "Унисекс",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 65,
       "img": "65.webp",
       "price": 17985,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "THE NORTH FACE",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -714,14 +714,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYTWsf",
       "gender": "Унисекс",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 66,
       "img": "66.webp",
       "price": 17235,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "THE NORTH FACE",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -734,14 +734,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYhTwx",
       "gender": "Унисекс",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 67,
       "img": "67.webp",
       "price": 23235,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "THE NORTH FACE",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -754,7 +754,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYYl4ga ",
       "gender": "Унисекс",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 68,
@@ -1001,7 +1001,7 @@
       "img": "82.webp",
       "price": 25485,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "The North Face",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -1014,14 +1014,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbUAtc",
       "gender": "Женское",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 83,
       "img": "83.webp",
       "price": 17235,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "The North Face",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -1034,14 +1034,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbdbO5",
       "gender": "Женское",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 84,
       "img": "84.webp",
       "price": 26235,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "The North Face",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -1054,14 +1054,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYC1ADN",
       "gender": "Женское",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 85,
       "img": "85.webp",
       "price": 28785,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "The North Face",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -1074,14 +1074,14 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbr2p9",
       "gender": "Женское",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 86,
       "img": "86.webp",
       "price": 29085,
       "type": "order",
-      "name": "Куртка",
+      "name": "Пуховик",
       "brand": "The North Face",
       "sizeXS": "XS",
       "sizeS": "S",
@@ -1094,7 +1094,7 @@
       "size": "",
       "url": "https://dw4.co/t/A/1TYbwrxo",
       "gender": "Женское",
-      "category": "Куртки"
+      "category": "Пуховик"
     },
     {
       "id": 87,
@@ -4157,7 +4157,7 @@
     {
       "id": 230,
       "img": "230.webp",
-      "price": "9900",
+      "price": "от 7748",
       "type": "stock",
       "name": "Худи",
       "brand": "Nike Lab",
@@ -4168,7 +4168,7 @@
     {
       "id": 231,
       "img": "231.webp",
-      "price": "9900",
+      "price": "от 7641",
       "type": "stock",
       "name": "Худи",
       "brand": "Nike Lab",
@@ -4179,7 +4179,7 @@
     {
       "id": 232,
       "img": "232.webp",
-      "price": "7900",
+      "price": "от 7139",
       "type": "stock",
       "name": "Брюки",
       "brand": "Nike Lab",
@@ -4190,7 +4190,7 @@
     {
       "id": 233,
       "img": "233.webp",
-      "price": "7900",
+      "price":  "от 7103",
       "type": "stock",
       "name": "Брюки",
       "brand": "Nike Lab",
