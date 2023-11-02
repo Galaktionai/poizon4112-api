@@ -364,17 +364,6 @@
       "category": "Кроссовки"
     },
     {
-      "id": 46,
-      "img": "nike-sneakers-zebra.webp",
-      "price": 10501,
-      "type": "stock",
-      "name": "Кроссовки",
-      "brand": "Nike Jordan 11",
-      "sizes": "6us 36.5eur 23cm",
-      "gender": "Унисекс",
-      "category": "Кроссовки"
-    },
-    {
       "id": 47,
       "img": "asics-sneakers-blue.webp",
       "price": 13478,
@@ -415,17 +404,6 @@
       "name": "Кроссовки",
       "brand": "Nike",
       "sizes": "8us 41eur 26cm",
-      "gender": "Унисекс",
-      "category": "Кроссовки"
-    },
-    {
-      "id": 51,
-      "img": "adidas-sneakers-gray.webp",
-      "price": 10103,
-      "type": "stock",
-      "name": "Кроссовки",
-      "brand": "adidas",
-      "sizes": "3uk 35.5eur 21.5cm (kids)",
       "gender": "Унисекс",
       "category": "Кроссовки"
     },
